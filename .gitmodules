@@ -1,0 +1,6 @@
+[submodule "plugins/jedi-vim"]
+	path = plugins/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "plugins/ultisnips"]
+	path = plugins/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
