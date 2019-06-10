@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/cygdrive/c/Users/liste/Downloads/chishenme'
 let g:netrw_dirhist_2='/cygdrive/c/Users/liste/.vim'
+let g:netrw_dirhist_3='/cygdrive/c/Users/liste'
+let g:netrw_dirhist_4='/cygdrive/c/Users/liste/.vim_runtime'
+let g:netrw_dirhist_5='/cygdrive/c/Users/liste'
